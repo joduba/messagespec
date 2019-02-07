@@ -1,2 +1,2 @@
-# messagespec
+# Titan Message Spec
 Message Spec documentation
