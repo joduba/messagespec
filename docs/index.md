@@ -1,8 +1,11 @@
-**Hello World
+**Table of contents:**
 
-This is the index page of the document folder.
+- [Architecture](#architecture)
+- [Core modules](#core-modules)
+- [Extensions](#extensions)
 
-* Say 1
-* Say 2
+## Architecture
 
-- Bye, bye.
+The following diagram displays a detailed architecture of the backend components with all the resources used by the core modules, the extensions and how they communicate with each other.
+
+The following sections will document which tasks each resource in the diagram is performing.
