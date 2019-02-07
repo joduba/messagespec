@@ -1,4 +1,4 @@
-*** Hello World
+**Hello World
 
 This is the index page of the document folder.
 
